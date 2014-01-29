@@ -1,0 +1,1 @@
+WiFi notepad - App for windows to write in one text file from two devices. Makers: Konupek Grzegorz, Samczuk Jakub. Feel free to download and use code for yourself.
